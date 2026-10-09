@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ayşe Sena Şahin 👋</h1>
+<h1 align="center">Hi, I'm Sena👋</h1>
 
 <p align="center">
   <strong>Electrical and Electronics Engineer</strong><br />
